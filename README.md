@@ -1,2 +1,2 @@
 # CalculadoraWeb
- Primeiro repositório
+ Primeiro repositório do meu primeiro projeto.
